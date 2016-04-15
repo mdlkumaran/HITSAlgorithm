@@ -188,7 +188,6 @@ class HitsAlgorithm
 			}
 	}
 	
-	
 	public void hitsImplementation(int iterationValue, int initialValue, String fileName)
 	{
 		int i = 1;
